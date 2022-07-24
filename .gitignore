@@ -1,0 +1,4 @@
+.pio
+.vscode
+ota.ini
+include/config.local.h
